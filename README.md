@@ -9,4 +9,4 @@ This repository contains simulation code, validation datasets, and result plots 
 - `results/`: Generated plots and figures
 
 ## Contact
-For inquiries, please contact: william.sams.sgfresearch@protonmail.com
+For inquiries, please contact: cmwcs1@gmail.com
